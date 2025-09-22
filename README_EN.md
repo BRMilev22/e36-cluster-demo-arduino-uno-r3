@@ -29,7 +29,8 @@ This project demonstrates how to connect an original BMW E36 instrument cluster 
 
 ## Project in Action
 
-![Demo Video](demo.gif)
+![Demo Video](media/demo.gif)
+
 *Video demonstration of the working cluster - shows smooth changes in tachometer and speedometer*
 
 ![Arduino Setup](media/speedometer_back_wiring.JPG)
